@@ -1,0 +1,146 @@
+﻿  ebentoak.c
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\simplesdlwrapper\ebentoak.c(52): warning C4244: '=': conversión de 'Sint32' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\simplesdlwrapper\ebentoak.c(53): warning C4244: '=': conversión de 'Sint32' a 'float'; posible pérdida de datos
+  graphics.c
+  imagen.c
+  soinua.c
+  text.c
+  02simpleGameMain.c
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(33): warning C4013: 'menu' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(34): warning C4013: 'dialogoIntro' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(36): warning C4013: 'dialogoArbol1' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(39): warning C4013: 'gameOver' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(43): warning C4013: 'dialogoSugea1' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(44): warning C4013: 'boss2' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(50): warning C4013: 'dialogoPulpo1' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(51): warning C4013: 'boss3' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(57): warning C4013: 'dialogoTitan1' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(58): warning C4013: 'boss4' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(64): warning C4013: 'dialogoArbol2' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(65): warning C4013: 'boss1b' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(71): warning C4013: 'dialogoSugea2' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(72): warning C4013: 'boss2b' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(75): warning C4013: 'dialogoPulpo2A' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(76): warning C4013: 'boss3b' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(81): warning C4013: 'dialogoPulpo2B' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(83): warning C4013: 'dialogoTitan2A' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(84): warning C4013: 'boss4b' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\02simplegamemain.c(89): warning C4013: 'dialogoTitan2B' sin definir; se supone que extern devuelve como resultado int
+  boss1.c
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1.c(50): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1.c(69): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1.c(70): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1.c(71): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1.c(72): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+  boss1b.c
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(55): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(76): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(77): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(78): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(79): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(80): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(24): warning C4101: 'tiroaAux': variable local sin referencia
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(24): warning C4101: 'jokalariaAux': variable local sin referencia
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(24): warning C4101: 'zirkulua2Aux': variable local sin referencia
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(24): warning C4101: 'zirkulua1Aux': variable local sin referencia
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(153): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(154): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(157): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss1b.c(158): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  boss2.c
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(30): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(81): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(94): warning C4013: 'SUGEAREN_IRUDIA' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(104): warning C4013: 'SUGEA_GELDIRIK' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(110): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(111): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(112): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(117): warning C4013: 'JOKO_EGOERA_AZTERTU_BOSS2' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2.c(138): warning C4101: 'denboraGeldirik': variable local sin referencia
+  boss2b.c
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(30): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(34): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(58): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(59): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(62): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(63): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(112): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(128): warning C4013: 'SUGEAREN_IRUDIAA' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(129): warning C4013: 'SUGEAREN_IRUDIAB' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(139): warning C4013: 'SUGEA_GELDIRIKA' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(144): warning C4013: 'SUGEA_GELDIRIKB' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(149): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(150): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(151): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(152): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(188): warning C4101: 'denboraGeldirik': variable local sin referencia
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss2b.c(197): warning C4101: 'denboraGeldirik': variable local sin referencia
+  boss3.c
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(52): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(53): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(54): warning C4244: 'función': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(75): warning C4020: 'kolisioaBoss3': hay demasiados parámetros reales
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(82): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(83): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(22): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(97): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(98): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(121): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(114): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(133): warning C4244: 'función': conversión de 'int' a 'float'; posible pérdida de datos
+  boss3b.c
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3b.c(56): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3b.c(60): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3b.c(61): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3b.c(63): warning C4244: 'función': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3b.c(82): warning C4020: 'kolisioaBoss3': hay demasiados parámetros reales
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3b.c(95): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3b.c(96): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3b.c(22): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  boss4.c
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4.c(47): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4.c(67): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4.c(86): warning C4020: 'ZIRKULUA_JOKALARIARA_MUGITU_BOSS4': hay demasiados parámetros reales
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4.c(112): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4.c(113): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4.c(114): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4.c(115): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4.c(116): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4.c(147): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4.c(153): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4.c(184): warning C4029: la lista de parámetros formales declarada es distinta de la definición
+  boss4b.c
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(39): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(63): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(70): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(82): warning C4013: 'JOKALARIAREN_BIZITZA_KENTZEA_BOSS4MINA' sin definir; se supone que extern devuelve como resultado int
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(108): warning C4020: 'ZIRKULUA_JOKALARIARA_MUGITU_BOSS4B': hay demasiados parámetros reales
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(114): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(115): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(116): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(117): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(118): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(147): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(152): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(189): warning C4029: la lista de parámetros formales declarada es distinta de la definición
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(201): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(202): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(205): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss4b.c(206): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  dialogo.c
+  game02.c
+  jokalaria.c
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\jokalaria.c(31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\jokalaria.c(35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\jokalaria.c(36): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\jokalaria.c(39): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\jokalaria.c(40): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+c:\users\18251\desktop\mega final extrem\sdlexamplesvcws\02simplegame\boss3.c(140): warning C4715: 'kolisioaBoss3': no todas las rutas de acceso de control devuelven un valor
+  LINK : no se encontró C:\Users\18251\Desktop\MEGA FINAL EXTREM\sdlExamplesVcWS\Debug\02simpleGame.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  02simpleGame.vcxproj -> C:\Users\18251\Desktop\MEGA FINAL EXTREM\sdlExamplesVcWS\Debug\02simpleGame.exe
